@@ -1,0 +1,38 @@
+.dot {
+   width: 15px;
+   height: 15px;
+   border-radius: 50%;
+   display: inline-block;
+   background-color: grey;
+}
+body {
+   background-color: #bbded6;
+}
+hr {
+   width: 50%;
+}
+.main {
+   font-size: 20px;
+}
+.main2 {
+   font-size: 25px;
+}
+h6 {
+   font-size: 25px;
+}
+.contact {
+   margin-left: 75%;
+}
+.contact-us {
+   font-size: 20px;
+}
+.contact1 {
+    font-size: 75px;
+}
+.version {
+    
+    font-size: 25px;
+}
+.hr1 {
+    width: 33%;
+}
